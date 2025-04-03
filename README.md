@@ -1,6 +1,6 @@
 ## Heisan sveisan 👋
 
-- 🇳🇴 Bor i Bergen
+- 🇳🇴 Bor i Bergen, Norge
 - 🔭 Jobber på [nettsiden min](https://isak.brunhenriksen.no) og [Ord på Nett](https://isak.brunhenriksen.no/Ord_online)
 - 🌱 Lærer Rust, PHP og Javascript
 - 💬 Spør meg om: programmerings greier
