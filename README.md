@@ -7,3 +7,6 @@
 - 💬 Spør meg om: programmerings greier
 - 📫 Hvordan kontakte meg: 📞 +47 458 48 234 | ✉️ isak@brunhenriksen.net
 - ⚡ Fun fact: ord på nett ja det er fett trenger ikke stort budsjett
+
+## Kule stats
+https://github-readme-stats.vercel.app/api?username=isakbh
