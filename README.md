@@ -9,4 +9,4 @@
 - ⚡ Fun fact: ord på nett ja det er fett trenger ikke stort budsjett
 
 ## Kule stats
-[![Isaks GitHub stats](https://github-readme-stats.vercel.app/api?username=isakbh)]
+[Isaks GitHub stats](https://github-readme-stats.vercel.app/api?username=isakbh)
