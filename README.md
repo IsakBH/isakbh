@@ -8,5 +8,5 @@
 - 📫 Hvordan kontakte meg: 📞 +47 458 48 234 | ✉️ isak@brunhenriksen.net
 - ⚡ Fun fact: ord på nett ja det er fett trenger ikke stort budsjett
 
-## Kule stats
+### Kule stats
 ![Isaks GitHub stats](https://github-readme-stats.vercel.app/api?username=isakbh)
