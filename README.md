@@ -10,3 +10,4 @@
 
 ### Kule stats
 ![Isaks GitHub stats](https://github-readme-stats.vercel.app/api?username=isakbh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakbha&exclude_repo=interaktivhistorie)
