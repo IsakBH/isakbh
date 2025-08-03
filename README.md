@@ -5,4 +5,4 @@
 - 🌱 Lærer Rust, PHP og Javascript
 - ⚡ Fun fact: ord på nett ja det er fett trenger ikke stort budsjett
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakbh&layout=compact&hide=ren'py,hack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakbh&layout=compact&hide=ren'py,hack,css)
