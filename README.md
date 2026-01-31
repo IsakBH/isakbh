@@ -1,7 +1,7 @@
 ## Hei hei
 
 - 🇳🇴 Norge
-- 😮 [Ord på Nett](https://isak.brunhenriksen.no/ordpanett) 
+- 😮 [Ord På Nett](https://isak.brunhenriksen.no/ordpanett) 
 - ❤️ Rust, PHP og Javascript
 - 🤯 ord på nett ja det er fett trenger ikke stort budsjett
   
