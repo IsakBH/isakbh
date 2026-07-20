@@ -7,6 +7,8 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakbh&layout=compact&hide=ren'py,hack,css,html)
 
+![](https://komarev.com/ghpvc/?username=isakbh)
+
 <details>
   <summary><i>Kontaktinformasjon</i></summary>
   
